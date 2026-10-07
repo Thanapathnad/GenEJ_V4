@@ -1,5 +1,5 @@
 {
-  "version": "4.2.0.2",
-  "package": "GenEJ_v4.2.0.2.zip",
-  "notes": "อัปเดตครั้งที่ 2 : เพิ่มฟีเจอร์ให้สามารถค้นหา log พร้อมๆกันหลายรายการได้ และปุ่ม clear ข้อมูลใน get log online"
+  "version": "4.2.0.3",
+  "package": "GenEJ_v4.2.0.3.zip",
+  "notes": "อัปเดตครั้งที่ 3 : เพิ่ม Progress Bar  ตอน Download ที่หน้า Get log online"
 }
